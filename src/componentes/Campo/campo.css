@@ -19,7 +19,7 @@
     box-sizing: border-box;
 }
 
-.campo-color {
+.campo-color input {
     height: 40px;
     padding: 5px 24px;
     
